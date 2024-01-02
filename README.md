@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megamiii&hide=jupyter%20notebook&langs_count=8)](https://github.com/megamiii/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megamiii&hide=jupyter%20notebook&langs_count=8&theme=nightowl)](https://github.com/megamiii/github-readme-stats)
 <!-- You can use the &exclude_repo=repo1,repo2 parameter to exclude individual repositories. -->
 <!-- Example: ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io) -->
 <!-- You can use &hide=language1,language2 parameter to hide individual languages. -->
 <!-- Example: ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html) -->
 <!-- You can use the &langs_count= option to increase or decrease the number of languages shown on the card. Valid values are integers between 1 and 20 (inclusive). By default it was set to 5 for normal & donut and 6 for other layouts. -->
 <!-- Example: ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)-->
+<!-- Use &theme=THEME_NAME parameter to change themes -->
+<!-- Find inbuilt themes here: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
