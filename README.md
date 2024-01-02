@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+  <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bc/94/11/bc9411a6bbc99a58a7e193ff6467552c.gif">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megamiii&hide=jupyter%20notebook&langs_count=8&theme=nightowl)](https://github.com/megamiii/github-readme-stats)
 <!-- You can use the &exclude_repo=repo1,repo2 parameter to exclude individual repositories. -->
 <!-- Example: ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io) -->
