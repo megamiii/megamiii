@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megamiii)](https://github.com/megamiii/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megamiii)](https://github.com/megamiii/github-readme-stats&hide=Jupyter Notebook)
+<!-- You can use the &exclude_repo=repo1,repo2 parameter to exclude individual repositories. -->
+<!-- Example: ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io) -->
+<!-- You can use &hide=language1,language2 parameter to hide individual languages. -->
+<!-- Example: ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html) -->
