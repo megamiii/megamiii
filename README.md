@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🏆 I'm a Google Certified Project Manager.
 - 💻 My main skills include C, C++, C#, Java, Python, and Unity. I also have previous experience with Verilog, R, MATLAB, and OCaml.
 - 🌱 I’m on a continuous journey of learning and personal development.
-- 🥅 2024 Goals: Secure a role where I can grow and contribute meaningfully, and work on overcoming the common challenge of imposter syndrome, which many of us in the tech industry face.
+- 🥅 2024 Goals: Secure a role where I can grow and contribute meaningfully!
 - ⚡ Fun fact: I was awarded a scholarship where I received over 71,984,000 won in educational support!
 
 ### GitHub Stats:
