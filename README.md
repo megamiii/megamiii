@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 [![JavaScript][js-shield]][js-url]
 [![CSS][css-shield]][css-url]
 [![HTML][html-shield]][html-url]
+[![TypeScript][ts-shield]][ts-url]
+[![React][react-shield]][react-url]
 [![MATLAB][matlab-shield]][matlab-url]
 [![Verilog][verilog-shield]][verilog-url]
 [![R][r-shield]][r-url]
@@ -74,6 +76,10 @@ Here are some ideas to get you started:
 [unity-url]: # (Add your link for Unity projects)
 [js-shield]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [js-url]: # (Add your link for JavaScript projects)
+[ts-shield]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+[ts-url]: # (Add your link for TypeScript projects)
+[react-shield]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[react-url]: # (Add your link for React projects)
 [css-shield]: https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [css-url]: # (Add your link for CSS projects)
 [html-shield]: https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white
